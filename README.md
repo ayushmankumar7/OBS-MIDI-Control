@@ -22,3 +22,8 @@ git clone git@github.com:ayushmankumar7/OBS-MIDI-Control.git
 // Connect your MIDI Controller
 python main.py
 ```
+
+## Working Demo
+[Linkedin Post](https://www.linkedin.com/posts/ayushman-kumar-836a19190_project-streaming-jugaad-activity-6912678518631931904-FIVY?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+## ENJOY! Share your reviews!
