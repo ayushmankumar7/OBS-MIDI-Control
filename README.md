@@ -6,3 +6,19 @@ I had a mini MIDI Controller(Keyboard) - AKAI MPK MINI 3. I thought it has many 
 ### There the HACKING began!
 
 So my first MIDI enabled tool is a OBS Controller. 
+
+## How to Setup 
+
+You need a few things before starting. 
+1. Python 
+2. [OBS](https://obsproject.com/) (ofc!)
+3. [OBS Websocket](https://github.com/obsproject/obs-websocket) installed for your OS. 
+4. Any MIDI Controller! (Keyboard, Pads, etc.)
+
+Now 
+```
+pip install obs-websocket-py
+git clone git@github.com:ayushmankumar7/OBS-MIDI-Control.git
+// Connect your MIDI Controller
+python main.py
+```
